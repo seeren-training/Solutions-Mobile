@@ -13,11 +13,15 @@ Il faut attendre 2002 pour voir arriver les couleurs sur l'écran des terminaux 
 
 ![image](./resources/evolution-ecran-samsung.jpg)
 
-Les écrans gagnent en surface et trouvent des solutions pour rester portables à l'image des écrans pliables.
-
-![image](./resources/upcoming-smartphones.jpg)
-
 > Les développeurs doivent trouver des solutions d'ergonomie pour supporter des affichages aux tailles et proportions variées.
+
+Les écrans gagnent en surface et trouvent des solutions pour rester portables
+
+___
+
+👨🏻‍💻 Manipulation
+
+Relevez des inovations actuelles concernant les formats d'écrans.
 
 ___
 
@@ -38,6 +42,7 @@ L'on peut observer avec le cumul des livraison, la stabilisation et le léger d�
 ![image](./resources/livraison-decenie.png)
 
 ___
+
 
 ## 📑 Du Wap à HTML 5
 
@@ -63,6 +68,12 @@ Il est alors possible avec du développement web d'accéder aux fonctionnalités
 
 ___
 
+👨🏻‍💻 Manipulation
+
+Après avoir observé la spécification, relevez des `web API` dont vous trouvez un mpact directe sur les applications que vous utilisez.
+
+___
+
 ## 📑 Responsive Design
 
 Le HTML5 permet d'accéder aux fonctionnalités du device mais offre des solutions d'affichage pour résoudre le problème de la diversité des formats.
@@ -83,8 +94,6 @@ La règle du mobile first correspond à cibler en base de développement les éc
 
 L'adaptabilité se définir en fonction de points de ruptures. Observons les points de ruptures admis.
 
-[Bootstrap Breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
-
 |Breakpoint|Terminologie|Dimensions|
 |--|--|--|
 |X-Small|None|<576px|
@@ -93,3 +102,5 @@ L'adaptabilité se définir en fonction de points de ruptures. Observons les poi
 |Large|lg|≥992px|
 |Extra large|xl|≥1200px|
 |Extra extra large|xxl|≥1400px|
+
+[Bootstrap Breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
