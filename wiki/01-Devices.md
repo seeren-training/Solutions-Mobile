@@ -9,7 +9,7 @@ ___
 
 ## 📑 Evolution des écrans et devices
 
-Il faut attendre 2002 pour voir arriver les couleurs sur l'écran des terminaux et c'est en 2009 que le premier modèle avec écran AMOLED arrive sur le marché.
+Il faut attendre 2002 pour voir arriver les couleurs sur l'écran des terminaux et c'est en 2009 que le premier modèle avec écran `AMOLED` arrive sur le marché.
 
 ![image](./resources/evolution-ecran-samsung.jpg)
 
@@ -58,7 +58,7 @@ Les services WAP ont perdu de leur attrait depuis l’avènement des smartphones
 
 ### 🏷️ **HTML 5**
 
-La version 5 propose de standardiser les web API.
+La version 5 propose de standardiser les `web API`.
 
 [Spécifications](https://developer.mozilla.org/fr/docs/Web/API#sp%C3%A9cifications)
 
@@ -84,7 +84,7 @@ Le HTML5 permet d'accéder aux fonctionnalités du device mais offre des solutio
 
 > Il est possible avec la `At Rule` "Media" de spécifier des règles d'affichage en fonction d'un type de support et de contraintes données. 
 
-Un design responsive correspond à utiliser des unitées relatives et de s'adapter aux différents formats possibles.
+Un design responsive correspond à utiliser des unitées `relatives` et de s'`adapter` aux différents formats possibles.
 
 ![image](./resources/mobile-first.png)
 
@@ -94,6 +94,8 @@ La règle du mobile first correspond à cibler en base de développement les éc
 
 L'adaptabilité se définir en fonction de points de ruptures. Observons les points de ruptures admis.
 
+[Bootstrap Breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
+
 |Breakpoint|Terminologie|Dimensions|
 |--|--|--|
 |X-Small|None|<576px|
@@ -102,5 +104,3 @@ L'adaptabilité se définir en fonction de points de ruptures. Observons les poi
 |Large|lg|≥992px|
 |Extra large|xl|≥1200px|
 |Extra extra large|xxl|≥1400px|
-
-[Bootstrap Breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
