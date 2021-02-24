@@ -12,7 +12,7 @@ Windows Phone fait l'objet d'une mise à jour à la fin de l'année 2015, dans l
 
 La nouvelle plateforme, Windows 10, permet de disposer de la même base dans toutes ses versions et sur tous les appareils, qui évolue par mises à jour cumulatives. Windows Phone devient ainsi Windows 10 Mobile.
 
-![image](./resources/windows-phone-8-1.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/windows-phone-8-1.png)
 
 Microsoft abandonne son système d'exploitation Windows Phone 8 en 2017. La période de prise en charge du système par Microsoft est terminée et le système est donc définitivement abandonné. Windows 10 Mobile devrait donc bientôt connaître le même destin funeste que Windows Phone.
 
@@ -20,29 +20,29 @@ ___
 
 ## 📑 Apports de Windows Phone 8
 
-### 🏷️ **Ecran**
+### 🏷️ **Écran**
 
 Un écran d'accueil condensé et plus personnalisable.
 
-![image](./resources/wp-acran.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/wp-acran.png)
 
 
 ### 🏷️ **Skype**
 
 L'intégration Skype permet de passer en appel vidéo.
 
-![image](./resources/wp-skype.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/wp-skype.png)
 
 
 ### 🏷️ **Bing**
 
 Bing permet de rechercher sur le web et dans le téléphone
 
-![image](./resources/wp-bing.jpeg)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/wp-bing.jpeg)
 
 ### 🏷️ **Echec**
 
-Ce smartphone se difévencient de la concurence de de façon qualitative mais quelque soit les apports, cela n'a pas pris.
+Ce smartphone se différencient de la concurrence de façon qualitative mais quelque soit les apports, cela n'a pas pris.
 
 > Les jeunes qui ont grandi en détestant Microsoft étaient ceux qui faisaient des starts-up pour pousser les autres plateformes.
 
@@ -52,7 +52,7 @@ ___
 
 ## 📑 Autres solutions
 
-Il existe d'autres platformes qu'Android, Ios, Windows.
+Il existe d'autres plateformes qu'Android, Ios, Windows.
 
 ### 🏷️ **BlacBerry**
 

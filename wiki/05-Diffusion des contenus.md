@@ -12,15 +12,15 @@ ___
 
 ## 📑 Apple Store vs Google Play
 
-L'acès à la distribution se différencie de par le prix et la limitation.
+L’accès à la distribution se différencie de par le prix et la limitation.
 
 ### 🏷️ **Google Play**
 
-L'inscription sur GooglePlay coute `25€` pour un license à vie permettant de déployer des applications sans limite sur Google Play.
+L'inscription sur GooglePlay coute `25€` pour un licence à vie permettant de déployer des applications sans limite sur Google Play.
 
 ### 🏷️ **Apple Store**
 
-La license Apple Developper coûte `99$` par an pour pouvoir déployer sur un mobile Ios et sur le Apple Store.
+La licence Apple Developper coûte `99$` par an pour pouvoir déployer sur un mobile Ios et sur le Apple Store.
 
 [Apple Developer](https://developer.apple.com/fr/support/compare-memberships/)
 
@@ -46,7 +46,7 @@ ___
 
 ## 📑 Licences et modes de déploiement
 
-Avant de pouvoir déplyer une license est à spécifier.
+Avant de pouvoir déployer une licence est à spécifier.
 
 ### 🏷️ **Licences**
 
@@ -56,7 +56,7 @@ Vous en aurez besoin pour signer votre application. Lors du dépot de votre appl
 
 ### 🏷️ **Déploiement**
 
-Une fois la license accptée, vous pouvez simplement déployer en séléctionannt votre release dans votre biliothèque ou en l'uploadant.
+Une fois la licence acceptée, vous pouvez simplement déployer en séléctionannt votre release dans votre bibliothèque ou en l'uploadant.
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 ## 📑 Gratuit, payant, publicité
 
-Votre applicaiton peut être totalement gratuite. Si elle est payante vous devez spécifier son tarif et les achats sont transférés dans votre comtpe Google ou Apple ou vous pouve effectuer des reraits via des trasnferts sur un compte privé. Une autre possibilité correspond à insérer une publicité qui en fonction du nombre de vue, ce click versera des micro revenus sur ce même compte.
+Votre application peut être totalement gratuite. Si elle est payante vous devez spécifier son tarif et les achats sont transférés dans votre compte Google ou Apple ou vous pouvez effectuer des retraits via des transferts sur un compte privé. Une autre possibilité correspond à insérer une publicité qui en fonction du nombre de vue, ce click versera des micro revenus sur ce même compte.
 ___
 
 ## 📑 InApp purchase
@@ -78,7 +78,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Après cette introduction de culture générale nous sommes interessés par le développement d'une application mobile. En fonction de vos points d'interessement sur les capacités d'un mobile, proposer des thématiques de projet et discutons-en.
+Après cette introduction de culture générale nous sommes intéressés par le développement d'une application mobile. En fonction de vos points d’intéressement sur les capacités d'un mobile, proposer des thématiques de projet et discutons-en.
 
 ___
 
@@ -87,6 +87,6 @@ ___
 ___
 👨🏻‍💻 Manipulation
 
-Une fois des thématiques validées, rendons les compréhensible via la rédaction de `wireframes`. Choisez l'outil de votre choix mais je vous conseil d'opter pour un outil collaboratif.
+Une fois des thématiques validées, rendons les compréhensible via la rédaction de `wireframes`. Choisissez l'outil de votre choix mais je vous conseil d'opter pour un outil collaboratif.
 
 ___

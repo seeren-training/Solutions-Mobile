@@ -1,17 +1,17 @@
 # Devices
 
-*  🔖 **Evolution des écrans et devices**
+*  🔖 **Évolution des écrans et devices**
 *  🔖 **Le marché du mobile**
 *  🔖 **Du Wap à HTLM 5**
 *  🔖 **Responsive Design**
 
 ___
 
-## 📑 Evolution des écrans et devices
+## 📑 Évolution des écrans et devices
 
 Il faut attendre 2002 pour voir arriver les couleurs sur l'écran des terminaux et c'est en 2009 que le premier modèle avec écran `AMOLED` arrive sur le marché.
 
-![image](./resources/evolution-ecran-samsung.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/evolution-ecran-samsung.jpg)
 
 > Les développeurs doivent trouver des solutions d'ergonomie pour supporter des affichages aux tailles et proportions variées.
 
@@ -21,7 +21,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Relevez des inovations actuelles concernant les formats d'écrans.
+Relevez des innovations actuelles concernant les formats d'écrans.
 
 ___
 
@@ -29,17 +29,17 @@ ___
 
 Le marché divisé par deux constructeur dominant s'ouvre avec de nouveaux arrivants.
 
-![image](./resources/constructeurs.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/constructeurs.png)
 
 ### 🏷️ **Livraison**
 
 Avec une apogée en 2016 le nombre de livraison s'est stabilisé avec une valeur minimal assurée par le renouvellement.
 
-![image](./resources/livraison.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/livraison.png)
 
-L'on peut observer avec le cumul des livraison, la stabilisation et le léger déclin des opportunitées du marché.
+L'on peut observer avec le cumul des livraison, la stabilisation et le léger déclin des opportunités du marché.
 
-![image](./resources/livraison-decenie.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/livraison-decenie.png)
 
 ___
 
@@ -54,7 +54,7 @@ Le protocol de communication à évolué en fonction de la capacité des devices
 
 Il redéfinit le protocole HTTP, le format de présentation HTML et l'interactivité obtenue par le langage JavaScript pour les adapter au monde des périphériques ayant un écran de taille réduite, un processeur de faible puissance et une autonomie limitée (téléphones mobiles).
 
-Les services WAP ont perdu de leur attrait depuis l’avènement des smartphones, équipés de processeurs puissants, d'écrans de taille suffisante, disposant de débits élevés et capables d'interpréter nativement le HTML et le Javascript. 
+Les services WAP ont perdu de leur attrait depuis l’avènement des smartphones, équipés de processeurs puissants, d'écrans de taille suffisante, disposant de débits élevés et capables d'interpréter nativement le HTML et le JavaScript. 
 
 ### 🏷️ **HTML 5**
 
@@ -64,13 +64,13 @@ La version 5 propose de standardiser les `web API`.
 
 Il est alors possible avec du développement web d'accéder aux fonctionnalités du device parce qu'interprété comme application web.
 
-![image](./resources/html5-features.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/html5-features.jpg)
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Après avoir observé la spécification, relevez des `web API` dont vous trouvez un mpact directe sur les applications que vous utilisez.
+Après avoir observé la spécification, relevez des `web API` dont vous trouvez un impact directe sur les applications que vous utilisez.
 
 ___
 
@@ -84,9 +84,9 @@ Le HTML5 permet d'accéder aux fonctionnalités du device mais offre des solutio
 
 > Il est possible avec la `At Rule` "Media" de spécifier des règles d'affichage en fonction d'un type de support et de contraintes données. 
 
-Un design responsive correspond à utiliser des unitées `relatives` et de s'`adapter` aux différents formats possibles.
+Un design responsive correspond à utiliser des unités `relatives` et de s'`adapter` aux différents formats possibles.
 
-![image](./resources/mobile-first.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/mobile-first.png)
 
 La règle du mobile first correspond à cibler en base de développement les écrans mobile et à enrichir ses règles stylistiques en fonction d'une capacité d'affichage qui augmente.
 

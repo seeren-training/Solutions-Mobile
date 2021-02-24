@@ -10,7 +10,7 @@ ___
 
 > Android n'a pas la meme approche qu'Ios sur la distribution de son Software Development Kit
 
-![image](./resources/android-vs-ios.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/android-vs-ios.png)
 
 ### 🏷️ **Android**
 
@@ -30,13 +30,13 @@ Les deux environnements ont pris des options différentes.
 
 Sur Android Studio, les développeurs suivent le guide line Google Material Design via le "Layout Editor". La syntaxe générée est du `XML`.
 
-![image](./resources/layout-editor.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/layout-editor.png)
 
 ### 🏷️ **Swift UI**
 
 Sur XCode, il y a plusieurs options d'implémentation des interfaces. Swift propose d'être cross plateform dans l'éco système Apple et adopte une `syntaxe déclarative` mais ce n'est pas du `markup`.
 
-![image](./resources/swift.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/swift.png)
 
 ___
 
@@ -50,13 +50,13 @@ Android Studio est un environnement de développement pour développer des appli
 
 > En 2014, Android Studio passe à sa version stable et devient alors conseillé par Google, et Eclipse est délaissé.
 
-![image](./resources/android-studio.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/android-studio.jpg)
 
 ### 🏷️ **Eclipse ADT**
 
 Eclipse embarquant les "Android Development Tools" permet de développer pour Android. La communauté préfère cette solution de développement bien que non recommandée pour sa rapidité et sa simplicité de traitement dans l'IDE phare de Java.
 
-![image](./resources/adt.png)
+![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/adt.png)
 
 ___
 
