@@ -68,6 +68,7 @@ ___
 ## 📑 Gratuit, payant, publicité
 
 Votre application peut être totalement gratuite. Si elle est payante vous devez spécifier son tarif et les achats sont transférés dans votre compte Google ou Apple ou vous pouvez effectuer des retraits via des transferts sur un compte privé. Une autre possibilité correspond à insérer une publicité qui en fonction du nombre de vue, ce click versera des micro revenus sur ce même compte.
+
 ___
 
 ## 📑 InApp purchase
@@ -78,15 +79,4 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Après cette introduction de culture générale nous sommes intéressés par le développement d'une application mobile. En fonction de vos points d’intéressement sur les capacités d'un mobile, proposer des thématiques de projet et discutons-en.
-
-___
-
-[Lucid Chart](https://www.lucidchart.com/pages/fr/landing/wireframe-tool)
-
-___
-👨🏻‍💻 Manipulation
-
-Une fois des thématiques validées, rendons les compréhensible via la rédaction de `wireframes`. Choisissez l'outil de votre choix mais je vous conseil d'opter pour un outil collaboratif.
-
-___
+Une fois des thématiques de produit validées, rendons les compréhensible via la finalisation de `wireframes` soignées.

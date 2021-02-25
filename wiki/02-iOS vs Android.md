@@ -52,6 +52,9 @@ Android Studio est un environnement de développement pour développer des appli
 
 ![image](https://raw.githubusercontent.com/seeren-training/Solutions-Mobile/master/wiki/resources/android-studio.jpg)
 
+> Sur Android Studio dans les SDK Manager, pensez à installer des versions antérieures concerant la version la plateform et les tools!
+
+
 ### 🏷️ **Eclipse ADT**
 
 Eclipse embarquant les "Android Development Tools" permet de développer pour Android. La communauté préfère cette solution de développement bien que non recommandée pour sa rapidité et sa simplicité de traitement dans l'IDE phare de Java.
@@ -63,4 +66,16 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Quelle version de Java devons nous installer? Nous aurons besoin de ces environnement. Je vous invite à installer le JDK et Android Studio. 
+Quelle version de Java devons nous installer? Nous aurons besoin de ces environnement: je vous invite à installer le JDK et Android Studio. 
+
+___
+
+### 🏷️ **Developper mode**
+
+Pour pouvoir construire un projet sur votre téléphone vous devez avoir le ode développeur actif. Il vous suffit de vous référer à la documentation de votre modèle de téléphone mais typiquement pour l'activer il faut dans les paramètres du téléphone, section "A propos", tapper quelques fois sur l'information "numéro de build".
+
+___
+
+👨🏻‍💻 Manipulation
+
+Activez le mode développeur de vos téléphone!

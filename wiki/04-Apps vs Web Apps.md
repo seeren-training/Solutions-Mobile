@@ -28,10 +28,33 @@ Chaque langage possède un `package manager`. C'est la base pour pouvoir utilise
 
 ___
 
-
 👨🏻‍💻 Manipulation
 
 Installez Node Package Manager, discutons en.
+
+___
+
+### 🏷️ **Exécution**
+
+Pour pouvoir exécuter la boucle d'interprétation:
+
+```bash
+node
+```
+
+Pour installer un package disponible sur npm:
+
+```bash
+npm install @angular/cli
+```
+
+[Npm](https://www.npmjs.com/)
+
+Pour pouvoir exécuter un binary d'un package installé:
+
+```bash
+npx ng
+```
 
 ___
 
@@ -83,6 +106,19 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Installons cordova et créons un nouveau projet, observons ses spécificités.
+Installons cordova et relevons les lignes de commandes principales
 
 ___
+
+Une fois les commandes principales ade cordova découvertes vous pouvez facilement créer un projet, ajouter une plateform et tenter un build sur un device connecté à condition que les pré requis soient présents!
+
+* Mode développeur
+* Java en variable d'environnement
+* Android Studio, Graddle, SKD plateform, SDK build tools
+* Graddle en variable d'environnement
+
+___
+
+👨🏻‍💻 Manipulation
+
+Allez dans la direction du build hybride en tentant de déployer l'application crée sur votre device. Des erreurs? Pas de problème nous prendrons le temps de les régler sur le module concerné mais vous avez un problème en cours!

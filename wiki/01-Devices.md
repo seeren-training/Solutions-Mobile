@@ -21,7 +21,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Relevez des innovations actuelles concernant les formats d'écrans.
+Essayez de relevez des innovations actuelles concernant les formats d'écrans afin d'en déduire des adaptations à prendre en compte.
 
 ___
 
@@ -104,3 +104,9 @@ L'adaptabilité se définir en fonction de points de ruptures. Observons les poi
 |Large|lg|≥992px|
 |Extra large|xl|≥1200px|
 |Extra extra large|xxl|≥1400px|
+
+___
+
+👨🏻‍💻 Manipulation
+
+Observons des applicaitions web ou mobile qui utilise ce principe. Et au fait, pourquoi du mobile first et pas l'inverse?
