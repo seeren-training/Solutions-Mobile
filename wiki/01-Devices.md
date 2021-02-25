@@ -89,7 +89,7 @@ Un design responsive correspond à utiliser des unités `relatives` et de s'`ada
 
 La règle du mobile first correspond à cibler en base de développement les écrans mobile et à enrichir ses règles stylistiques en fonction d'une capacité d'affichage qui augmente.
 
-### **Breakpoints**
+#### **Breakpoints**
 
 L'adaptabilité se définir en fonction de points de ruptures. Observons les points de ruptures admis.
 
