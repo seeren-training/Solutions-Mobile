@@ -43,7 +43,6 @@ L'on peut observer avec le cumul des livraison, la stabilisation et le léger d�
 
 ___
 
-
 ## 📑 Du Wap à HTML 5
 
 Le protocol de communication à évolué en fonction de la capacité des devices.
